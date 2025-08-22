@@ -1,0 +1,15 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://raw.githubusercontent.com/LinkedPasts/linked-places/master/linkedplaces-context-v1.1.jsonld",
+    "features": [
+      { "@id": "https://bible.helloao.org/api/c/places/antioch.json",
+        "type": "Feature",
+        "links": [
+            {"type": "seeAlso", "identifier": "https://www.digitalmanna.org/encyclopedia/places/antioch"},
+            {"type": "seeAlso", "identifier": "https://theographic.netlify.app/place/antioch_68"},
+            {"type": "seeAlso", "identifier": "https://www.openbible.info/geo/ancient/ae41ab4"},
+            {"type": "seeAlso", "identifier": "https://pleiades.stoa.org/places/658381"}
+        ]
+      }
+    ]
+}

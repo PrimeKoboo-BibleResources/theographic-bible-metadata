@@ -5,6 +5,7 @@
         "fields": {
             "osisName": "Gen",
             "bookName": "Genesis",
+            "chapterCount": 50,
             "bookDiv": "Pentateuch",
             "shortName": "Ge",
             "bookOrder": 1,
@@ -1543,6 +1544,7 @@
                 "recUvBlpLFXt8XSg1",
                 "rectwCKpBHgzmKrw3"
             ],
+            "verseCount": 1533,
             "chapters": [
                 "recViIBdFQyyJQtzE",
                 "recParAnlMHJy8vSQ",
@@ -1595,12 +1597,10 @@
                 "rec3VSmyC7OGjT6jT",
                 "reczLbVqF5DUKfrYk"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 50,
-            "verseCount": 1533,
             "writers": [
                 "moses_2108"
             ],
+            "testament": "Old Testament",
             "slug": "gen",
             "peopleCount": 1082,
             "placeCount": 266
@@ -1612,6 +1612,7 @@
         "fields": {
             "osisName": "Exod",
             "bookName": "Exodus",
+            "chapterCount": 40,
             "bookDiv": "Pentateuch",
             "shortName": "Ex",
             "bookOrder": 2,
@@ -2830,6 +2831,7 @@
                 "rec5Lp4D1UEX5nMoI",
                 "rectk60avlRxvIjoc"
             ],
+            "verseCount": 1213,
             "chapters": [
                 "rec1yPgl5iaGn05J8",
                 "rec3JYCsuVp3qy6br",
@@ -2872,12 +2874,10 @@
                 "recXpWdpVlcIPrUnv",
                 "reciBz3tH3otZjASO"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 40,
-            "verseCount": 1213,
             "writers": [
                 "moses_2108"
             ],
+            "testament": "Old Testament",
             "slug": "exod",
             "peopleCount": 619,
             "placeCount": 179
@@ -2889,6 +2889,7 @@
         "fields": {
             "osisName": "Lev",
             "bookName": "Leviticus",
+            "chapterCount": 27,
             "bookDiv": "Pentateuch",
             "shortName": "Le",
             "bookOrder": 3,
@@ -3753,6 +3754,7 @@
                 "recfGuOWHppyLNUaZ",
                 "recEBPK47rJDTfNBY"
             ],
+            "verseCount": 859,
             "chapters": [
                 "recPbcf8q1Q8v1vyT",
                 "recyhHNxyN12nFARP",
@@ -3782,12 +3784,10 @@
                 "reco5BUIy3l4lrfjA",
                 "rec7ugWsZW3wEhdzt"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 27,
-            "verseCount": 859,
             "writers": [
                 "moses_2108"
             ],
+            "testament": "Old Testament",
             "slug": "lev",
             "peopleCount": 366,
             "placeCount": 28
@@ -3799,6 +3799,7 @@
         "fields": {
             "osisName": "Num",
             "bookName": "Numbers",
+            "chapterCount": 36,
             "bookDiv": "Pentateuch",
             "shortName": "Nu",
             "bookOrder": 4,
@@ -5092,6 +5093,7 @@
                 "recUahyxvEP7GsT1Q",
                 "recXn9KdgxmBs9Dda"
             ],
+            "verseCount": 1288,
             "chapters": [
                 "rec02lZpELyizXrU2",
                 "rec2uMaXZdk3EaI3M",
@@ -5130,12 +5132,10 @@
                 "rec3scgYuKY2SwW2d",
                 "recvkGJF0w1jVZOHf"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 36,
-            "verseCount": 1288,
             "writers": [
                 "moses_2108"
             ],
+            "testament": "Old Testament",
             "slug": "num",
             "peopleCount": 832,
             "placeCount": 207
@@ -5147,6 +5147,7 @@
         "fields": {
             "osisName": "Deut",
             "bookName": "Deuteronomy",
+            "chapterCount": 34,
             "bookDiv": "Pentateuch",
             "shortName": "Dt",
             "bookOrder": 5,
@@ -6111,6 +6112,7 @@
                 "rec7pMsDZjFKBsDqF",
                 "recNeIXatlEeBeAhy"
             ],
+            "verseCount": 959,
             "chapters": [
                 "recg0BgJlU23c03HG",
                 "rechFxWdAO1P6igcp",
@@ -6147,12 +6149,10 @@
                 "recNnMr6H5HgwbzKA",
                 "recLNPod9rdzDdhbN"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 34,
-            "verseCount": 959,
             "writers": [
                 "moses_2108"
             ],
+            "testament": "Old Testament",
             "slug": "deut",
             "peopleCount": 528,
             "placeCount": 146
@@ -6164,6 +6164,7 @@
         "fields": {
             "osisName": "Josh",
             "bookName": "Joshua",
+            "chapterCount": 24,
             "bookDiv": "Historical",
             "shortName": "Jos",
             "bookOrder": 6,
@@ -6827,6 +6828,7 @@
                 "recLvrzYH4qEM6p3e",
                 "recVY0D3fJy7UmnLN"
             ],
+            "verseCount": 658,
             "chapters": [
                 "recPDXtVWeiGPUqfO",
                 "receaYPGdMp32IiWY",
@@ -6853,12 +6855,10 @@
                 "recBYIG0kmdeyrsYD",
                 "recmGUnHP6NJWKIca"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 24,
-            "verseCount": 658,
             "writers": [
                 "joshua_1727"
             ],
+            "testament": "Old Testament",
             "slug": "josh",
             "peopleCount": 413,
             "placeCount": 370
@@ -6870,6 +6870,7 @@
         "fields": {
             "osisName": "Judg",
             "bookName": "Judges",
+            "chapterCount": 21,
             "bookDiv": "Historical",
             "shortName": "Jdg",
             "bookOrder": 7,
@@ -7493,6 +7494,7 @@
                 "reca9Ud7WO6hNIaNz",
                 "recxHWBFsgIYwS2Ou"
             ],
+            "verseCount": 618,
             "chapters": [
                 "recQ9L6sfa0CWf8GS",
                 "recxGczDPGWmecQhD",
@@ -7516,12 +7518,10 @@
                 "recBow8zJvd7y8Gxl",
                 "recS3PS3TEvu38Pnx"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 21,
-            "verseCount": 618,
             "writers": [
                 "samuel_2469"
             ],
+            "testament": "Old Testament",
             "slug": "judg",
             "peopleCount": 454,
             "placeCount": 244
@@ -7533,6 +7533,7 @@
         "fields": {
             "osisName": "Ruth",
             "bookName": "Ruth",
+            "chapterCount": 4,
             "bookDiv": "Historical",
             "shortName": "Ru",
             "bookOrder": 8,
@@ -7623,18 +7624,17 @@
                 "recj75aOBq2Cedr8f",
                 "recRa6etEOt4KHCdg"
             ],
+            "verseCount": 85,
             "chapters": [
                 "recPjfSkXwKJVsj3O",
                 "recuSi5JM3aBCwdAQ",
                 "rectMQStHirhCXsHq",
                 "recbpPunqiVGYg68O"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 4,
-            "verseCount": 85,
             "writers": [
                 "samuel_2469"
             ],
+            "testament": "Old Testament",
             "slug": "ruth",
             "peopleCount": 57,
             "placeCount": 9
@@ -7646,6 +7646,7 @@
         "fields": {
             "osisName": "1Sam",
             "bookName": "1 Samuel",
+            "chapterCount": 31,
             "bookDiv": "Historical",
             "shortName": "1Sa",
             "bookOrder": 9,
@@ -8461,6 +8462,7 @@
                 "recTzfNTICN4W1kbX",
                 "recfKCUEtee46iQ5o"
             ],
+            "verseCount": 810,
             "chapters": [
                 "rec9G8e7trKJtRjM0",
                 "recs6afL1V306fZC7",
@@ -8494,13 +8496,11 @@
                 "reczy0VRwGTx2fhWg",
                 "recQVapu1YbDIGQkK"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 31,
-            "verseCount": 810,
             "writers": [
                 "samuel_2469",
                 "samuel_2469, gad_1263, nathan_2153"
             ],
+            "testament": "Old Testament",
             "slug": "1sam",
             "peopleCount": 662,
             "placeCount": 193
@@ -8512,6 +8512,7 @@
         "fields": {
             "osisName": "2Sam",
             "bookName": "2 Samuel",
+            "chapterCount": 24,
             "bookDiv": "Historical",
             "shortName": "2Sa",
             "bookOrder": 10,
@@ -9212,6 +9213,7 @@
                 "recgRpeiAJflkTz3N",
                 "recsyiA52Iqj6ROHP"
             ],
+            "verseCount": 695,
             "chapters": [
                 "recn4ESCpiFjeGaCY",
                 "recCwWU2x9oqa7qV0",
@@ -9238,12 +9240,10 @@
                 "recFL2pSSEhKJbqAt",
                 "reciWX0ICsL42Vc4p"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 24,
-            "verseCount": 695,
             "writers": [
                 "samuel_2469, gad_1263, nathan_2153"
             ],
+            "testament": "Old Testament",
             "slug": "2sam",
             "peopleCount": 556,
             "placeCount": 166
@@ -9255,6 +9255,7 @@
         "fields": {
             "osisName": "1Kgs",
             "bookName": "1 Kings",
+            "chapterCount": 22,
             "bookDiv": "Historical",
             "shortName": "1Ki",
             "bookOrder": 11,
@@ -10076,6 +10077,7 @@
                 "rec01baP2CB6cg7b3",
                 "rec4Y0SV8P7LXNgMp"
             ],
+            "verseCount": 816,
             "chapters": [
                 "rec4djrICdGSICvxX",
                 "recrtNm729EzLobjg",
@@ -10100,12 +10102,10 @@
                 "recrNQlTdPjUBhSWk",
                 "recFTqdw2oyQPBKan"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 22,
-            "verseCount": 816,
             "writers": [
                 "jeremiah_853"
             ],
+            "testament": "Old Testament",
             "slug": "1kgs",
             "peopleCount": 586,
             "placeCount": 192
@@ -10117,6 +10117,7 @@
         "fields": {
             "osisName": "2Kgs",
             "bookName": "2 Kings",
+            "chapterCount": 25,
             "bookDiv": "Historical",
             "shortName": "2Ki",
             "bookOrder": 12,
@@ -10841,6 +10842,7 @@
                 "receE5Ldg3Z49IqM0",
                 "reckufpRFuEf8vaUj"
             ],
+            "verseCount": 719,
             "chapters": [
                 "recaznGTmwKOSIzKw",
                 "recrHbxxa3CWH42HL",
@@ -10868,12 +10870,10 @@
                 "rec5IDNKg5CMSstGl",
                 "recunV2Vcvep2odUV"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 25,
-            "verseCount": 719,
             "writers": [
                 "jeremiah_853"
             ],
+            "testament": "Old Testament",
             "slug": "2kgs",
             "peopleCount": 554,
             "placeCount": 265
@@ -10885,6 +10885,7 @@
         "fields": {
             "osisName": "1Chr",
             "bookName": "1 Chronicles",
+            "chapterCount": 29,
             "bookDiv": "Historical",
             "shortName": "1Ch",
             "bookOrder": 13,
@@ -11832,6 +11833,7 @@
                 "reckys28gsM87JMhD",
                 "recFaLskvDVuLJY55"
             ],
+            "verseCount": 942,
             "chapters": [
                 "recRAcqtgn28zXm1a",
                 "recTk3YPSGiQfMcCu",
@@ -11863,12 +11865,10 @@
                 "recKRdvpITqiqIFLG",
                 "recmcwyFaiRi6diBQ"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 29,
-            "verseCount": 942,
             "writers": [
                 "ezra_1245"
             ],
+            "testament": "Old Testament",
             "slug": "1chr",
             "peopleCount": 836,
             "placeCount": 161
@@ -11880,6 +11880,7 @@
         "fields": {
             "osisName": "2Chr",
             "bookName": "2 Chronicles",
+            "chapterCount": 36,
             "bookDiv": "Historical",
             "shortName": "2Ch",
             "bookOrder": 14,
@@ -12707,6 +12708,7 @@
                 "rec0nbeoubGvyP9gr",
                 "rec8SV59rgLeSd2BK"
             ],
+            "verseCount": 822,
             "chapters": [
                 "recgaZgmvFdgwgfzp",
                 "rec5yRqFwqlseOK4m",
@@ -12745,12 +12747,10 @@
                 "recPJlZIJYBtJxZoO",
                 "receham0m1NXU1PLw"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 36,
-            "verseCount": 822,
             "writers": [
                 "ezra_1245"
             ],
+            "testament": "Old Testament",
             "slug": "2chr",
             "peopleCount": 611,
             "placeCount": 236
@@ -12762,6 +12762,7 @@
         "fields": {
             "osisName": "Ezra",
             "bookName": "Ezra",
+            "chapterCount": 10,
             "bookDiv": "Historical",
             "shortName": "Ezr",
             "bookOrder": 15,
@@ -13047,6 +13048,7 @@
                 "recS92MkxkowtmaI5",
                 "reci7NV2UMcJHoFOB"
             ],
+            "verseCount": 280,
             "chapters": [
                 "rec8NRZuBuX6duX0i",
                 "recSBoXF7alc9wq9E",
@@ -13059,12 +13061,10 @@
                 "recB7wlMM7R5qyy6r",
                 "recWNIVbdneKSwZMu"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 10,
-            "verseCount": 280,
             "writers": [
                 "ezra_1245"
             ],
+            "testament": "Old Testament",
             "slug": "ezra",
             "peopleCount": 209,
             "placeCount": 89
@@ -13076,6 +13076,7 @@
         "fields": {
             "osisName": "Neh",
             "bookName": "Nehemiah",
+            "chapterCount": 13,
             "bookDiv": "Historical",
             "shortName": "Ne",
             "bookOrder": 16,
@@ -13487,6 +13488,7 @@
                 "recFgRYZrF9CRjEZp",
                 "recy1KEkX9jwN3nRz"
             ],
+            "verseCount": 406,
             "chapters": [
                 "recjHwBVHfYo4JY5D",
                 "recaJXZY7teAXDpdV",
@@ -13502,12 +13504,10 @@
                 "recspiWUK57ITz1ZP",
                 "rec4XBEJ4acineeWw"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 13,
-            "verseCount": 406,
             "writers": [
                 "nehemiah_2172"
             ],
+            "testament": "Old Testament",
             "slug": "neh",
             "peopleCount": 259,
             "placeCount": 99
@@ -13519,6 +13519,7 @@
         "fields": {
             "osisName": "Esth",
             "bookName": "Esther",
+            "chapterCount": 10,
             "bookDiv": "Historical",
             "shortName": "Es",
             "bookOrder": 17,
@@ -13691,6 +13692,7 @@
                 "recgqF5GZqlca8xZh",
                 "recr9N6uHVaf9jt8b"
             ],
+            "verseCount": 167,
             "chapters": [
                 "recpsbvzNqOs4mik2",
                 "recqfeVaEIQwChlh1",
@@ -13703,12 +13705,10 @@
                 "recspX0aKMVhDDrVt",
                 "rec8NJtDrmQffWT3r"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 10,
-            "verseCount": 167,
             "writers": [
                 "mordecai_2107"
             ],
+            "testament": "Old Testament",
             "slug": "esth",
             "peopleCount": 119,
             "placeCount": 24
@@ -13720,6 +13720,7 @@
         "fields": {
             "osisName": "Job",
             "bookName": "Job",
+            "chapterCount": 42,
             "bookDiv": "Poetry-Wisdom",
             "shortName": "Job",
             "bookOrder": 18,
@@ -14795,6 +14796,7 @@
                 "recQ7VhDqBvPvAIV7",
                 "recephb4n1JqOXJoa"
             ],
+            "verseCount": 1070,
             "chapters": [
                 "recaEis0tGGoX9S9m",
                 "recMJzhthV9jaeJKq",
@@ -14839,12 +14841,10 @@
                 "rec3Bm00TTMAoBL0Z",
                 "recBLTylmYFs9qjp7"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 42,
-            "verseCount": 1070,
             "writers": [
                 "moses_2108"
             ],
+            "testament": "Old Testament",
             "slug": "job",
             "peopleCount": 190,
             "placeCount": 6
@@ -14856,6 +14856,7 @@
         "fields": {
             "osisName": "Ps",
             "bookName": "Psalms",
+            "chapterCount": 150,
             "bookDiv": "Poetry-Wisdom",
             "shortName": "Ps",
             "bookOrder": 19,
@@ -17322,6 +17323,7 @@
                 "recqM5W3XGVFnrnYa",
                 "recBkH1QvLMTt14i2"
             ],
+            "verseCount": 2461,
             "chapters": [
                 "recN5roZArs4UW8ij",
                 "recNdBCqTc12ZgaPM",
@@ -17474,11 +17476,7 @@
                 "recgQOICMW4ZNS8kE",
                 "recZrxmYpDLoigx02"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 150,
-            "verseCount": 2461,
             "writers": [
-                null,
                 "david_994",
                 "asaph_330",
                 "solomon_2762",
@@ -17486,6 +17484,7 @@
                 "ethan_1222",
                 "moses_2108"
             ],
+            "testament": "Old Testament",
             "slug": "ps",
             "peopleCount": 1026,
             "placeCount": 118
@@ -17497,6 +17496,7 @@
         "fields": {
             "osisName": "Prov",
             "bookName": "Proverbs",
+            "chapterCount": 31,
             "bookDiv": "Poetry-Wisdom",
             "shortName": "Pr",
             "bookOrder": 20,
@@ -18417,6 +18417,7 @@
                 "recInJmz2LkOwjPpt",
                 "recqlYZZQ3EgJoBFn"
             ],
+            "verseCount": 915,
             "chapters": [
                 "rec6j5h8oblJDEU5Q",
                 "recTkYBXkECVgCgqu",
@@ -18450,14 +18451,12 @@
                 "recLaze5HfK25saIL",
                 "recoHiPrKLjyaawuQ"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 31,
-            "verseCount": 915,
             "writers": [
                 "solomon_2762",
                 "agur_112",
                 "lemuel_1817"
             ],
+            "testament": "Old Testament",
             "slug": "prov",
             "peopleCount": 100,
             "placeCount": 0
@@ -18469,6 +18468,7 @@
         "fields": {
             "osisName": "Eccl",
             "bookName": "Ecclesiastes",
+            "chapterCount": 12,
             "bookDiv": "Poetry-Wisdom",
             "shortName": "Ec",
             "bookOrder": 21,
@@ -18696,6 +18696,7 @@
                 "recjvZS7cBinDxq5p",
                 "recuRIJ1JIo5pqPdY"
             ],
+            "verseCount": 222,
             "chapters": [
                 "recuWzq6lVIM0Ik6Z",
                 "recTBtxCQwnMPsCxZ",
@@ -18710,12 +18711,10 @@
                 "rech4XUyrHLJELsuY",
                 "recogHkEKWxl1hTCI"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 12,
-            "verseCount": 222,
             "writers": [
                 "solomon_2762"
             ],
+            "testament": "Old Testament",
             "slug": "eccl",
             "peopleCount": 37,
             "placeCount": 5
@@ -18727,6 +18726,7 @@
         "fields": {
             "osisName": "Song",
             "bookName": "Song of Solomon",
+            "chapterCount": 8,
             "bookDiv": "Poetry-Wisdom",
             "shortName": "So",
             "bookOrder": 22,
@@ -18849,6 +18849,7 @@
                 "recf1OHNrwq72JEdL",
                 "rec0GBiYTG2JBoliu"
             ],
+            "verseCount": 117,
             "chapters": [
                 "recVxN6RaimjF2UuX",
                 "recvhNYpcHhjrLoTc",
@@ -18859,12 +18860,10 @@
                 "recI3sQunJZ9lc0Hk",
                 "rec8d7slf12UoA8eh"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 8,
-            "verseCount": 117,
             "writers": [
                 "solomon_2762"
             ],
+            "testament": "Old Testament",
             "slug": "song",
             "peopleCount": 9,
             "placeCount": 21
@@ -18876,6 +18875,7 @@
         "fields": {
             "osisName": "Isa",
             "bookName": "Isaiah",
+            "chapterCount": 66,
             "bookDiv": "Major Prophets",
             "shortName": "Is",
             "bookOrder": 23,
@@ -20173,6 +20173,7 @@
                 "recjafAQf0oJVDgpF",
                 "recatQ8cAsCqOp4PC"
             ],
+            "verseCount": 1292,
             "chapters": [
                 "recStU2XGk8b6PoYs",
                 "recvQvJwDqCqTrANC",
@@ -20241,12 +20242,10 @@
                 "recOyvHHizK7lCc5K",
                 "rec4PPjhl5Q9nUt22"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 66,
-            "verseCount": 1292,
             "writers": [
                 "isaiah_617"
             ],
+            "testament": "Old Testament",
             "slug": "isa",
             "peopleCount": 556,
             "placeCount": 248
@@ -20258,6 +20257,7 @@
         "fields": {
             "osisName": "Jer",
             "bookName": "Jeremiah",
+            "chapterCount": 52,
             "bookDiv": "Major Prophets",
             "shortName": "Je",
             "bookOrder": 24,
@@ -21627,6 +21627,7 @@
                 "recXxB2SOafZOGckJ",
                 "reclaIbdim0cbB7W5"
             ],
+            "verseCount": 1364,
             "chapters": [
                 "recPpD9bU4aQLXoZt",
                 "recjzxr9YqcIMLCvH",
@@ -21681,12 +21682,10 @@
                 "recX9xeijDCWqoyat",
                 "recePqlhti04Ea5Wn"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 52,
-            "verseCount": 1364,
             "writers": [
                 "jeremiah_853"
             ],
+            "testament": "Old Testament",
             "slug": "jer",
             "peopleCount": 840,
             "placeCount": 443
@@ -21698,6 +21697,7 @@
         "fields": {
             "osisName": "Lam",
             "bookName": "Lamentations",
+            "chapterCount": 5,
             "bookDiv": "Poetry-Wisdom",
             "shortName": "La",
             "bookOrder": 25,
@@ -21857,6 +21857,7 @@
                 "recvnwfauSz0DrzgJ",
                 "reclciwHitiod8TcW"
             ],
+            "verseCount": 154,
             "chapters": [
                 "recdD0TKc7mI3uNCT",
                 "rec3hVL3LJ5redBtQ",
@@ -21864,12 +21865,10 @@
                 "recD4PB14LIlTJjJR",
                 "rec86pm7FqeZBAc7O"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 5,
-            "verseCount": 154,
             "writers": [
                 "jeremiah_853"
             ],
+            "testament": "Old Testament",
             "slug": "lam",
             "peopleCount": 47,
             "placeCount": 22
@@ -21881,6 +21880,7 @@
         "fields": {
             "osisName": "Ezek",
             "bookName": "Ezekiel",
+            "chapterCount": 48,
             "bookDiv": "Major Prophets",
             "shortName": "Eze",
             "bookOrder": 26,
@@ -23159,6 +23159,7 @@
                 "reck42yXkll1BCLKA",
                 "recxZqYTilGGHFGG0"
             ],
+            "verseCount": 1273,
             "chapters": [
                 "rec9Id9FvFWZsCiP3",
                 "recSByj470vU23CL7",
@@ -23209,12 +23210,10 @@
                 "reccXDmrcc5iWNPHB",
                 "recLRAP4BDFvu3S65"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 48,
-            "verseCount": 1273,
             "writers": [
                 "ezekiel_1237"
             ],
+            "testament": "Old Testament",
             "slug": "ezek",
             "peopleCount": 482,
             "placeCount": 195
@@ -23226,6 +23225,7 @@
         "fields": {
             "osisName": "Dan",
             "bookName": "Daniel",
+            "chapterCount": 12,
             "bookDiv": "Major Prophets",
             "shortName": "Da",
             "bookOrder": 27,
@@ -23588,6 +23588,7 @@
                 "recduOjT5v3pvnUra",
                 "recMwSgXhoQxVjktg"
             ],
+            "verseCount": 357,
             "chapters": [
                 "recmLiaKC4BlBgcJ6",
                 "recGrKDvjBo4iZeNX",
@@ -23602,12 +23603,10 @@
                 "recNJcFq0gT9FSMSE",
                 "recP8e084WJM2Or3q"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 12,
-            "verseCount": 357,
             "writers": [
                 "daniel_975"
             ],
+            "testament": "Old Testament",
             "slug": "dan",
             "peopleCount": 158,
             "placeCount": 40
@@ -23619,6 +23618,7 @@
         "fields": {
             "osisName": "Hos",
             "bookName": "Hosea",
+            "chapterCount": 14,
             "bookDiv": "Minor Prophets",
             "shortName": "Ho",
             "bookOrder": 28,
@@ -23821,6 +23821,7 @@
                 "recMnHMSTHgadsCDF",
                 "recSIQHbITLFjGBIt"
             ],
+            "verseCount": 197,
             "chapters": [
                 "recbMqY9XC3iTy7Eo",
                 "rec23MT3kJ7hfq0Tt",
@@ -23837,12 +23838,10 @@
                 "recdjBSoqvQjN6pSH",
                 "rec7zYRnwtzduSiGJ"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 14,
-            "verseCount": 197,
             "writers": [
                 "hosea_1555"
             ],
+            "testament": "Old Testament",
             "slug": "hos",
             "peopleCount": 95,
             "placeCount": 44
@@ -23854,6 +23853,7 @@
         "fields": {
             "osisName": "Joel",
             "bookName": "Joel",
+            "chapterCount": 3,
             "bookDiv": "Minor Prophets",
             "shortName": "Joe",
             "bookOrder": 29,
@@ -23932,17 +23932,16 @@
                 "recEw8dKfH5dZQfbe",
                 "recHZLqNAsQoVB8NH"
             ],
+            "verseCount": 73,
             "chapters": [
                 "rechyIHsQA1aHYHvj",
                 "recgUZp5804QWHzSZ",
                 "recb4wWzI3dSQCatz"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 3,
-            "verseCount": 73,
             "writers": [
                 "joel_1660"
             ],
+            "testament": "Old Testament",
             "slug": "joel",
             "peopleCount": 31,
             "placeCount": 16
@@ -23954,6 +23953,7 @@
         "fields": {
             "osisName": "Amos",
             "bookName": "Amos",
+            "chapterCount": 9,
             "bookDiv": "Minor Prophets",
             "shortName": "Am",
             "bookOrder": 30,
@@ -24105,6 +24105,7 @@
                 "recY6iv7cvQeebJ5o",
                 "reczhIhc9zzNDqSaP"
             ],
+            "verseCount": 146,
             "chapters": [
                 "recMNsXEXZGhaUWxF",
                 "rec5eqoYZPRZ8CVEB",
@@ -24116,12 +24117,10 @@
                 "recjJ0w33sPKfvye1",
                 "recpIOnQQ2i5PR2YW"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 9,
-            "verseCount": 146,
             "writers": [
                 "amos_238"
             ],
+            "testament": "Old Testament",
             "slug": "amos",
             "peopleCount": 89,
             "placeCount": 39
@@ -24133,6 +24132,7 @@
         "fields": {
             "osisName": "Obad",
             "bookName": "Obadiah",
+            "chapterCount": 1,
             "bookDiv": "Minor Prophets",
             "shortName": "Ob",
             "bookOrder": 31,
@@ -24159,15 +24159,14 @@
                 "recuITCPeRtbtjvMg",
                 "recLNa3L5G38a1SnW"
             ],
+            "verseCount": 21,
             "chapters": [
                 "recuRl2mIQ2E3O5ia"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 1,
-            "verseCount": 21,
             "writers": [
                 "obadiah_2226"
             ],
+            "testament": "Old Testament",
             "slug": "obad",
             "peopleCount": 12,
             "placeCount": 9
@@ -24179,6 +24178,7 @@
         "fields": {
             "osisName": "Jonah",
             "bookName": "Jonah",
+            "chapterCount": 4,
             "bookDiv": "Minor Prophets",
             "shortName": "Jon",
             "bookOrder": 32,
@@ -24232,18 +24232,17 @@
                 "recryvWteZJkZdFpW",
                 "recp9iR58llu9tuiI"
             ],
+            "verseCount": 48,
             "chapters": [
                 "recfQpq6IfbfPnvAw",
                 "recyI5XXZdncT62jx",
                 "recYjqH40s6WKDmBM",
                 "recRf5OPB2att2iUA"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 4,
-            "verseCount": 48,
             "writers": [
                 "jonah_1689"
             ],
+            "testament": "Old Testament",
             "slug": "jonah",
             "peopleCount": 35,
             "placeCount": 10
@@ -24255,6 +24254,7 @@
         "fields": {
             "osisName": "Mic",
             "bookName": "Micah",
+            "chapterCount": 7,
             "bookDiv": "Minor Prophets",
             "shortName": "Mic",
             "bookOrder": 33,
@@ -24365,6 +24365,7 @@
                 "recFoLovoTVu6B6QL",
                 "recSLsAAdClOiDnMC"
             ],
+            "verseCount": 105,
             "chapters": [
                 "recgtAFbPOHLarZPq",
                 "rec3mY8SUbDbz2QDQ",
@@ -24374,12 +24375,10 @@
                 "rec53LrKixa1vfIgy",
                 "recR0q7lx90aC72zR"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 7,
-            "verseCount": 105,
             "writers": [
                 "micah_2053"
             ],
+            "testament": "Old Testament",
             "slug": "mic",
             "peopleCount": 49,
             "placeCount": 25
@@ -24391,6 +24390,7 @@
         "fields": {
             "osisName": "Nah",
             "bookName": "Nahum",
+            "chapterCount": 3,
             "bookDiv": "Minor Prophets",
             "shortName": "Na",
             "bookOrder": 34,
@@ -24443,17 +24443,16 @@
                 "recZ5zqdIt0IyGcC3",
                 "reccvef2mpPDcTWc4"
             ],
+            "verseCount": 47,
             "chapters": [
                 "recH94xNn0RLK1KHF",
                 "rec1omIfP0iW1vi0q",
                 "recb6JJzRuxAipkJj"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 3,
-            "verseCount": 47,
             "writers": [
                 "nahum_2145"
             ],
+            "testament": "Old Testament",
             "slug": "nah",
             "peopleCount": 11,
             "placeCount": 7
@@ -24465,6 +24464,7 @@
         "fields": {
             "osisName": "Hab",
             "bookName": "Habakkuk",
+            "chapterCount": 3,
             "bookDiv": "Minor Prophets",
             "shortName": "Hab",
             "bookOrder": 35,
@@ -24526,17 +24526,16 @@
                 "recifsWD7e0ua5M8k",
                 "recY9Zf6yMIamVsbg"
             ],
+            "verseCount": 56,
             "chapters": [
                 "recy9m5h2HIVdqmtm",
                 "recMUYOCuwD88D9OJ",
                 "recAQjVX5EU5Fx8co"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 3,
-            "verseCount": 56,
             "writers": [
                 "habakkuk_1334"
             ],
+            "testament": "Old Testament",
             "slug": "hab",
             "peopleCount": 15,
             "placeCount": 3
@@ -24548,6 +24547,7 @@
         "fields": {
             "osisName": "Zeph",
             "bookName": "Zephaniah",
+            "chapterCount": 3,
             "bookDiv": "Minor Prophets",
             "shortName": "Zep",
             "bookOrder": 36,
@@ -24606,17 +24606,16 @@
                 "rec2WjHbJzQDCeAYD",
                 "rec1CEwubRMNykrPI"
             ],
+            "verseCount": 53,
             "chapters": [
                 "recdpwqNwwulfFUzq",
                 "recveDfwajJQLFIg6",
                 "recisoDIjnHqqMUfT"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 3,
-            "verseCount": 53,
             "writers": [
                 "zephaniah_3040"
             ],
+            "testament": "Old Testament",
             "slug": "zeph",
             "peopleCount": 29,
             "placeCount": 13
@@ -24628,6 +24627,7 @@
         "fields": {
             "osisName": "Hag",
             "bookName": "Haggai",
+            "chapterCount": 2,
             "bookDiv": "Minor Prophets",
             "shortName": "Hag",
             "bookOrder": 37,
@@ -24671,16 +24671,15 @@
                 "recoXm4D9ffLBC8BU",
                 "recFHXgS4QUOqC9Mj"
             ],
+            "verseCount": 38,
             "chapters": [
                 "recDmg4smCLEkR1ED",
                 "recDa5koJRmXkFroY"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 2,
-            "verseCount": 38,
             "writers": [
                 "haggai_1349"
             ],
+            "testament": "Old Testament",
             "slug": "hag",
             "peopleCount": 28,
             "placeCount": 1
@@ -24692,6 +24691,7 @@
         "fields": {
             "osisName": "Zech",
             "bookName": "Zechariah",
+            "chapterCount": 14,
             "bookDiv": "Minor Prophets",
             "shortName": "Zec",
             "bookOrder": 38,
@@ -24908,6 +24908,7 @@
                 "recwtlE9QRisoyv3k",
                 "recnQPT0H1oJFKXsL"
             ],
+            "verseCount": 211,
             "chapters": [
                 "recRFbcPnVUQNYnwL",
                 "recUW6zKe6yCDwqZL",
@@ -24924,12 +24925,10 @@
                 "recZaem5CT6vuFEPQ",
                 "recTcYfoiFn4MXAiP"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 14,
-            "verseCount": 211,
             "writers": [
                 "zechariah_3016"
             ],
+            "testament": "Old Testament",
             "slug": "zech",
             "peopleCount": 120,
             "placeCount": 58
@@ -24941,6 +24940,7 @@
         "fields": {
             "osisName": "Mal",
             "bookName": "Malachi",
+            "chapterCount": 4,
             "bookDiv": "Minor Prophets",
             "shortName": "Mal",
             "bookOrder": 39,
@@ -25001,18 +25001,17 @@
                 "rec4Inh9Tdm12tNad",
                 "recMSS8ZHsvoYxNDH"
             ],
+            "verseCount": 55,
             "chapters": [
                 "rec2OiKN1eC4I8Sd9",
                 "recS90x8xcWq4GhLN",
                 "rec8bPoCXiDopGKoS",
                 "recqGCj5zLOb8gR1v"
             ],
-            "testament": "Old Testament",
-            "chapterCount": 4,
-            "verseCount": 55,
             "writers": [
                 "malachi_1899"
             ],
+            "testament": "Old Testament",
             "slug": "mal",
             "peopleCount": 47,
             "placeCount": 4
@@ -25024,6 +25023,7 @@
         "fields": {
             "osisName": "Matt",
             "bookName": "Matthew",
+            "chapterCount": 28,
             "bookDiv": "Gospels",
             "shortName": "Mt",
             "bookOrder": 40,
@@ -26103,6 +26103,7 @@
             "yearWritten": [
                 "recjz0yynf7rcdlXV"
             ],
+            "verseCount": 1071,
             "chapters": [
                 "rec7qtvOOctSDNom8",
                 "recWw1ssOLYVTdEEM",
@@ -26133,12 +26134,10 @@
                 "recWB9gcAjVs6NYFx",
                 "recj37cEewYXLgQ3v"
             ],
-            "testament": "New Testament",
-            "chapterCount": 28,
-            "verseCount": 1071,
             "writers": [
                 "matthew_1971"
             ],
+            "testament": "New Testament",
             "slug": "matt",
             "peopleCount": 431,
             "placeCount": 69
@@ -26150,6 +26149,7 @@
         "fields": {
             "osisName": "Mark",
             "bookName": "Mark",
+            "chapterCount": 16,
             "bookDiv": "Gospels",
             "shortName": "Mk",
             "bookOrder": 41,
@@ -26836,6 +26836,7 @@
             "yearWritten": [
                 "rec0A69638GHKV6ts"
             ],
+            "verseCount": 678,
             "chapters": [
                 "recTzsqcZeto3gXih",
                 "recMVdytm34LX15Vr",
@@ -26854,12 +26855,10 @@
                 "recA3HGfHmQXuKEJo",
                 "rec68IJBLua1opMCp"
             ],
-            "testament": "New Testament",
-            "chapterCount": 16,
-            "verseCount": 678,
             "writers": [
                 "mark_1679"
             ],
+            "testament": "New Testament",
             "slug": "mark",
             "peopleCount": 245,
             "placeCount": 46
@@ -26871,6 +26870,7 @@
         "fields": {
             "osisName": "Luke",
             "bookName": "Luke",
+            "chapterCount": 24,
             "bookDiv": "Gospels",
             "shortName": "Lu",
             "bookOrder": 42,
@@ -28030,6 +28030,7 @@
             "yearWritten": [
                 "recvOFi9OkrgM1IAO"
             ],
+            "verseCount": 1151,
             "chapters": [
                 "recT5jBeSTonVjPOv",
                 "recr48ICdpbXFGEYN",
@@ -28056,12 +28057,10 @@
                 "recYA3zEm7ihY3Nx7",
                 "recmRRsNdqIUWLgGo"
             ],
-            "testament": "New Testament",
-            "chapterCount": 24,
-            "verseCount": 1151,
             "writers": [
                 "luke_1836"
             ],
+            "testament": "New Testament",
             "slug": "luke",
             "peopleCount": 461,
             "placeCount": 76
@@ -28073,6 +28072,7 @@
         "fields": {
             "osisName": "John",
             "bookName": "John",
+            "chapterCount": 21,
             "bookDiv": "Gospels",
             "shortName": "Jn",
             "bookOrder": 43,
@@ -28957,6 +28957,7 @@
                 "recdgyppUMfrq6Y4I",
                 "rech6IrsGTDMERjKl"
             ],
+            "verseCount": 879,
             "chapters": [
                 "recRewBbXS7mVg3NN",
                 "recMK81fIA2FBwaNP",
@@ -28980,12 +28981,10 @@
                 "recHbq18r4FIAJ44B",
                 "rec36pNYmUq8A2Gd1"
             ],
-            "testament": "New Testament",
-            "chapterCount": 21,
-            "verseCount": 879,
             "writers": [
                 "john_1677"
             ],
+            "testament": "New Testament",
             "slug": "john",
             "peopleCount": 514,
             "placeCount": 62
@@ -28997,6 +28996,7 @@
         "fields": {
             "osisName": "Acts",
             "bookName": "Acts",
+            "chapterCount": 28,
             "bookDiv": "Acts",
             "shortName": "Ac",
             "bookOrder": 44,
@@ -30012,6 +30012,7 @@
             "yearWritten": [
                 "rec0kTOAllLvN855m"
             ],
+            "verseCount": 1007,
             "chapters": [
                 "recZAOjAUnGihkYVU",
                 "recfhXfeeT8pTaEQB",
@@ -30042,12 +30043,10 @@
                 "rec6aetpRc7zD5Y05",
                 "recFyde4DlK98x0qv"
             ],
-            "testament": "New Testament",
-            "chapterCount": 28,
-            "verseCount": 1007,
             "writers": [
                 "luke_1836"
             ],
+            "testament": "New Testament",
             "slug": "acts",
             "peopleCount": 592,
             "placeCount": 244
@@ -30059,6 +30058,7 @@
         "fields": {
             "osisName": "Rom",
             "bookName": "Romans",
+            "chapterCount": 16,
             "bookDiv": "Pauline Epistles",
             "shortName": "Ro",
             "bookOrder": 45,
@@ -30503,6 +30503,7 @@
             "placeWritten": [
                 "recpmPd6JhbqhqA0Q"
             ],
+            "verseCount": 433,
             "chapters": [
                 "recMCMGLnVg4olx48",
                 "recMcLBnD88gjBXir",
@@ -30521,12 +30522,10 @@
                 "recWPc7OYh52hGxzs",
                 "recK4kY433fHpRweu"
             ],
-            "testament": "New Testament",
-            "chapterCount": 16,
-            "verseCount": 433,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "rom",
             "peopleCount": 238,
             "placeCount": 13
@@ -30538,6 +30537,7 @@
         "fields": {
             "osisName": "1Cor",
             "bookName": "1 Corinthians",
+            "chapterCount": 16,
             "bookDiv": "Pauline Epistles",
             "shortName": "1Co",
             "bookOrder": 46,
@@ -30986,6 +30986,7 @@
             "placeWritten": [
                 "recBYO9ocr5Gssb47"
             ],
+            "verseCount": 437,
             "chapters": [
                 "recuM8o3MRRjsRpCa",
                 "rec0BQ7klmJXdnzHQ",
@@ -31004,12 +31005,10 @@
                 "recH2oKlyOXHWUwwg",
                 "recxoD1hdZGgcxeOA"
             ],
-            "testament": "New Testament",
-            "chapterCount": 16,
-            "verseCount": 437,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "1cor",
             "peopleCount": 192,
             "placeCount": 8
@@ -31021,6 +31020,7 @@
         "fields": {
             "osisName": "2Cor",
             "bookName": "2 Corinthians",
+            "chapterCount": 13,
             "bookDiv": "Pauline Epistles",
             "shortName": "2Co",
             "bookOrder": 47,
@@ -31289,6 +31289,7 @@
             "placeWritten": [
                 "recly2TmP9CBHh8OQ"
             ],
+            "verseCount": 257,
             "chapters": [
                 "recikRt8RL0hvJ1Jr",
                 "recUeIs4gxfoDB8La",
@@ -31304,12 +31305,10 @@
                 "rechHWkWoWpRHN5Zy",
                 "rec73CpNOuuMinA94"
             ],
-            "testament": "New Testament",
-            "chapterCount": 13,
-            "verseCount": 257,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "2cor",
             "peopleCount": 122,
             "placeCount": 12
@@ -31321,6 +31320,7 @@
         "fields": {
             "osisName": "Gal",
             "bookName": "Galatians",
+            "chapterCount": 6,
             "bookDiv": "Pauline Epistles",
             "shortName": "Ga",
             "bookOrder": 48,
@@ -31481,6 +31481,7 @@
             "placeWritten": [
                 "recKAFuMIt8BAi2OH"
             ],
+            "verseCount": 149,
             "chapters": [
                 "recQzZJTHhuGShRKa",
                 "recuiiXIXDK57QeLA",
@@ -31489,12 +31490,10 @@
                 "recOvrol5txX9OhvS",
                 "rec2x9ZZvioIp5pBS"
             ],
-            "testament": "New Testament",
-            "chapterCount": 6,
-            "verseCount": 149,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "gal",
             "peopleCount": 87,
             "placeCount": 10
@@ -31506,6 +31505,7 @@
         "fields": {
             "osisName": "Eph",
             "bookName": "Ephesians",
+            "chapterCount": 6,
             "bookDiv": "Pauline Epistles",
             "shortName": "Eph",
             "bookOrder": 49,
@@ -31672,6 +31672,7 @@
             "placeWritten": [
                 "recDDkVF36ecPUge4"
             ],
+            "verseCount": 155,
             "chapters": [
                 "recSLhSNy8htKWFjo",
                 "recsXbD3T3F8MbXwX",
@@ -31680,12 +31681,10 @@
                 "rec29jWvix3ORE6QN",
                 "recd0BM05lbMnPn7a"
             ],
-            "testament": "New Testament",
-            "chapterCount": 6,
-            "verseCount": 155,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "eph",
             "peopleCount": 88,
             "placeCount": 1
@@ -31697,6 +31696,7 @@
         "fields": {
             "osisName": "Phil",
             "bookName": "Philippians",
+            "chapterCount": 4,
             "bookDiv": "Pauline Epistles",
             "shortName": "Php",
             "bookOrder": 50,
@@ -31812,18 +31812,17 @@
             "placeWritten": [
                 "recDDkVF36ecPUge4"
             ],
+            "verseCount": 104,
             "chapters": [
                 "recPE8yUmP9V4utuG",
                 "recRXc0J6jFXQ782n",
                 "recd3c3iLlZe6KfRm",
                 "rec3XZm0Jqwgkydvn"
             ],
-            "testament": "New Testament",
-            "chapterCount": 4,
-            "verseCount": 104,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "phil",
             "peopleCount": 63,
             "placeCount": 3
@@ -31835,6 +31834,7 @@
         "fields": {
             "osisName": "Col",
             "bookName": "Colossians",
+            "chapterCount": 4,
             "bookDiv": "Pauline Epistles",
             "shortName": "Col",
             "bookOrder": 51,
@@ -31941,18 +31941,17 @@
             "placeWritten": [
                 "recDDkVF36ecPUge4"
             ],
+            "verseCount": 95,
             "chapters": [
                 "rec6xVrkSz39SguDd",
                 "recwqSEmxu592dHkx",
                 "rec0KJU32O25P51c5",
                 "recUfNjRA1fAcJeae"
             ],
-            "testament": "New Testament",
-            "chapterCount": 4,
-            "verseCount": 95,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "col",
             "peopleCount": 51,
             "placeCount": 5
@@ -31964,6 +31963,7 @@
         "fields": {
             "osisName": "1Thess",
             "bookName": "1 Thessalonians",
+            "chapterCount": 5,
             "bookDiv": "Pauline Epistles",
             "shortName": "1Th",
             "bookOrder": 52,
@@ -32064,6 +32064,7 @@
             "placeWritten": [
                 "recQThsW3uau1oxf9"
             ],
+            "verseCount": 89,
             "chapters": [
                 "reca5y8qrzew69WDL",
                 "recFuzalUuxuYG2qd",
@@ -32071,12 +32072,10 @@
                 "reczvpnFjyDmOwUoi",
                 "recwiRu6DiwyaNzqO"
             ],
-            "testament": "New Testament",
-            "chapterCount": 5,
-            "verseCount": 89,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "1thess",
             "peopleCount": 49,
             "placeCount": 6
@@ -32088,6 +32087,7 @@
         "fields": {
             "osisName": "2Thess",
             "bookName": "2 Thessalonians",
+            "chapterCount": 3,
             "bookDiv": "Pauline Epistles",
             "shortName": "2Th",
             "bookOrder": 53,
@@ -32146,17 +32146,16 @@
             "placeWritten": [
                 "recQThsW3uau1oxf9"
             ],
+            "verseCount": 47,
             "chapters": [
                 "recFIadWwNcwFQDsi",
                 "rec1WoFlIAgDtEvkI",
                 "recHbLrTso4xcgKNi"
             ],
-            "testament": "New Testament",
-            "chapterCount": 3,
-            "verseCount": 47,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "2thess",
             "peopleCount": 29,
             "placeCount": 0
@@ -32168,6 +32167,7 @@
         "fields": {
             "osisName": "1Tim",
             "bookName": "1 Timothy",
+            "chapterCount": 6,
             "bookDiv": "Pauline Epistles",
             "shortName": "1Ti",
             "bookOrder": 54,
@@ -32289,6 +32289,7 @@
             "yearWritten": [
                 "recZxgUO7sc80jQw2"
             ],
+            "verseCount": 113,
             "chapters": [
                 "rece7hdDGdaTeneok",
                 "rec3wKvOm7CfRjRR0",
@@ -32297,12 +32298,10 @@
                 "recCqafny9SQuhezG",
                 "recGjyMJNUQWSN7WJ"
             ],
-            "testament": "New Testament",
-            "chapterCount": 6,
-            "verseCount": 113,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "1tim",
             "peopleCount": 38,
             "placeCount": 1
@@ -32314,6 +32313,7 @@
         "fields": {
             "osisName": "2Tim",
             "bookName": "2 Timothy",
+            "chapterCount": 4,
             "bookDiv": "Pauline Epistles",
             "shortName": "2Ti",
             "bookOrder": 55,
@@ -32408,18 +32408,17 @@
             "placeWritten": [
                 "recDDkVF36ecPUge4"
             ],
+            "verseCount": 83,
             "chapters": [
                 "recYXapOsOd17TzPR",
                 "recU6gnvyKW6qmM6o",
                 "rec916QLvCemVPgj2",
                 "recO3dxNU0FrXPmWY"
             ],
-            "testament": "New Testament",
-            "chapterCount": 4,
-            "verseCount": 83,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "2tim",
             "peopleCount": 47,
             "placeCount": 8
@@ -32431,6 +32430,7 @@
         "fields": {
             "osisName": "Titus",
             "bookName": "Titus",
+            "chapterCount": 3,
             "bookDiv": "Pauline Epistles",
             "shortName": "Tit",
             "bookOrder": 56,
@@ -32485,17 +32485,16 @@
             "yearWritten": [
                 "recZxgUO7sc80jQw2"
             ],
+            "verseCount": 46,
             "chapters": [
                 "recut3mid3XomgMBP",
                 "recZCBD8DL7tVQ64h",
                 "rec6T08pJgHwNLH3R"
             ],
-            "testament": "New Testament",
-            "chapterCount": 3,
-            "verseCount": 46,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "titus",
             "peopleCount": 16,
             "placeCount": 2
@@ -32507,6 +32506,7 @@
         "fields": {
             "osisName": "Phlm",
             "bookName": "Philemon",
+            "chapterCount": 1,
             "bookDiv": "Pauline Epistles",
             "shortName": "Phm",
             "bookOrder": 57,
@@ -32543,15 +32543,14 @@
             "placeWritten": [
                 "recDDkVF36ecPUge4"
             ],
+            "verseCount": 25,
             "chapters": [
                 "recZ2o7MAHvRBqvlF"
             ],
-            "testament": "New Testament",
-            "chapterCount": 1,
-            "verseCount": 25,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "phlm",
             "peopleCount": 15,
             "placeCount": 0
@@ -32563,6 +32562,7 @@
         "fields": {
             "osisName": "Heb",
             "bookName": "Hebrews",
+            "chapterCount": 13,
             "bookDiv": "Pauline Epistles",
             "shortName": "Heb",
             "bookOrder": 58,
@@ -32874,6 +32874,7 @@
             "yearWritten": [
                 "rec0A69638GHKV6ts"
             ],
+            "verseCount": 303,
             "chapters": [
                 "rec1NwCbwtBqJy07a",
                 "recKTdJg9I24WQdgK",
@@ -32889,12 +32890,10 @@
                 "recvosRlBA1gzSmDO",
                 "recvOeoHGt3H4I5p0"
             ],
-            "testament": "New Testament",
-            "chapterCount": 13,
-            "verseCount": 303,
             "writers": [
                 "paul_2479"
             ],
+            "testament": "New Testament",
             "slug": "heb",
             "peopleCount": 139,
             "placeCount": 11
@@ -32906,6 +32905,7 @@
         "fields": {
             "osisName": "Jas",
             "bookName": "James",
+            "chapterCount": 5,
             "bookDiv": "General Epistles",
             "shortName": "Jas",
             "bookOrder": 59,
@@ -33022,6 +33022,7 @@
             "yearWritten": [
                 "reczVV9M3tRmnrqVx"
             ],
+            "verseCount": 108,
             "chapters": [
                 "recLKdKz1PjbJNN3h",
                 "recwQmsjkqeVaUubK",
@@ -33029,12 +33030,10 @@
                 "rec2UgJCoHRjJ7DQA",
                 "recYGqUGxJY7RNRO4"
             ],
-            "testament": "New Testament",
-            "chapterCount": 5,
-            "verseCount": 108,
             "writers": [
                 "james_719"
             ],
+            "testament": "New Testament",
             "slug": "jas",
             "peopleCount": 29,
             "placeCount": 0
@@ -33046,6 +33045,7 @@
         "fields": {
             "osisName": "1Pet",
             "bookName": "1 Peter",
+            "chapterCount": 5,
             "bookDiv": "General Epistles",
             "shortName": "1Pe",
             "bookOrder": 60,
@@ -33159,6 +33159,7 @@
             "yearWritten": [
                 "recw5eSM1t5luW1eR"
             ],
+            "verseCount": 105,
             "chapters": [
                 "recVZx7zfsoJWFIz7",
                 "recX6UjsQhcnlr8H2",
@@ -33166,12 +33167,10 @@
                 "recDOP6YsAPdXcnay",
                 "recPyB5jESDK52Hep"
             ],
-            "testament": "New Testament",
-            "chapterCount": 5,
-            "verseCount": 105,
             "writers": [
                 "peter_2745"
             ],
+            "testament": "New Testament",
             "slug": "1pet",
             "peopleCount": 56,
             "placeCount": 3
@@ -33183,6 +33182,7 @@
         "fields": {
             "osisName": "2Pet",
             "bookName": "2 Peter",
+            "chapterCount": 3,
             "bookDiv": "General Epistles",
             "shortName": "2Pe",
             "bookOrder": 61,
@@ -33252,17 +33252,16 @@
             "yearWritten": [
                 "rec0A69638GHKV6ts"
             ],
+            "verseCount": 61,
             "chapters": [
                 "recmu9PngE1C6rU9E",
                 "recSC6eRfCmlOlB2S",
                 "recdmLDhUhGPzMggX"
             ],
-            "testament": "New Testament",
-            "chapterCount": 3,
-            "verseCount": 61,
             "writers": [
                 "peter_2745"
             ],
+            "testament": "New Testament",
             "slug": "2pet",
             "peopleCount": 24,
             "placeCount": 1
@@ -33274,6 +33273,7 @@
         "fields": {
             "osisName": "1John",
             "bookName": "1 John",
+            "chapterCount": 5,
             "bookDiv": "General Epistles",
             "shortName": "1Jn",
             "bookOrder": 62,
@@ -33384,6 +33384,7 @@
                 "recXdli5fp7qeRZMK",
                 "recUm76I9r8gkeYaR"
             ],
+            "verseCount": 105,
             "chapters": [
                 "recae9fsaMGJA5asr",
                 "recAdlLNktEIVHUsd",
@@ -33391,12 +33392,10 @@
                 "recb5JMGVgr0vCL3X",
                 "recMssh5ftJunCKSv"
             ],
-            "testament": "New Testament",
-            "chapterCount": 5,
-            "verseCount": 105,
             "writers": [
                 "john_1677"
             ],
+            "testament": "New Testament",
             "slug": "1john",
             "peopleCount": 61,
             "placeCount": 0
@@ -33408,6 +33407,7 @@
         "fields": {
             "osisName": "2John",
             "bookName": "2 John",
+            "chapterCount": 1,
             "bookDiv": "General Epistles",
             "shortName": "2Jn",
             "bookOrder": 63,
@@ -33426,15 +33426,14 @@
                 "recA9GsdDEV07EofK",
                 "recv7ZXhMOa6MSBUy"
             ],
+            "verseCount": 13,
             "chapters": [
                 "recUpCj7orTNacVvx"
             ],
-            "testament": "New Testament",
-            "chapterCount": 1,
-            "verseCount": 13,
             "writers": [
                 "john_1677"
             ],
+            "testament": "New Testament",
             "slug": "2john",
             "peopleCount": 6,
             "placeCount": 0
@@ -33446,6 +33445,7 @@
         "fields": {
             "osisName": "3John",
             "bookName": "3 John",
+            "chapterCount": 1,
             "bookDiv": "General Epistles",
             "shortName": "3Jn",
             "bookOrder": 64,
@@ -33465,15 +33465,14 @@
                 "recxMpRAhWnETvKvE",
                 "rece47qD0Nm1hwzMu"
             ],
+            "verseCount": 14,
             "chapters": [
                 "recC7eHfosTXlVT5U"
             ],
-            "testament": "New Testament",
-            "chapterCount": 1,
-            "verseCount": 14,
             "writers": [
                 "john_1677"
             ],
+            "testament": "New Testament",
             "slug": "3john",
             "peopleCount": 4,
             "placeCount": 0
@@ -33485,6 +33484,7 @@
         "fields": {
             "osisName": "Jude",
             "bookName": "Jude",
+            "chapterCount": 1,
             "bookDiv": "General Epistles",
             "shortName": "Jud",
             "bookOrder": 65,
@@ -33515,15 +33515,14 @@
                 "rec4v4mKvffmkINww",
                 "rec8XmoAxprqZexXj"
             ],
+            "verseCount": 25,
             "chapters": [
                 "rec4EH7bV2nNDLQV9"
             ],
-            "testament": "New Testament",
-            "chapterCount": 1,
-            "verseCount": 25,
             "writers": [
                 "jude_1756"
             ],
+            "testament": "New Testament",
             "slug": "jude",
             "peopleCount": 11,
             "placeCount": 2
@@ -33535,6 +33534,7 @@
         "fields": {
             "osisName": "Rev",
             "bookName": "Revelation",
+            "chapterCount": 22,
             "bookDiv": "Revelation",
             "shortName": "Re",
             "bookOrder": 66,
@@ -33944,6 +33944,7 @@
                 "recuxhlLPzgp2xNXh",
                 "recogsGhS7vA94UZh"
             ],
+            "verseCount": 404,
             "chapters": [
                 "rec4IteMmrzJkGwvB",
                 "recbY21K55SlkLybd",
@@ -33968,12 +33969,10 @@
                 "reczCKBt9yqtbFq23",
                 "rec48NbZtyjNslLOV"
             ],
-            "testament": "New Testament",
-            "chapterCount": 22,
-            "verseCount": 404,
             "writers": [
                 "john_1677"
             ],
+            "testament": "New Testament",
             "slug": "rev",
             "peopleCount": 156,
             "placeCount": 27
