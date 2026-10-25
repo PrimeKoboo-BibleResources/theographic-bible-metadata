@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git checkout *)",
+      "Bash(git branch *)",
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "Bash(gh repo view *)",
+      "Bash(gh pr list *)",
+      "Bash(gh pr view *)",
+      "Bash(gh issue list *)",
+      "Bash(gh issue view *)",
+      "Bash(yarn:*)",
+      "Bash(docker compose:*)",
+      "Read(.env.local)",
+      "Read(.env.production)",
+      "Bash(mongosh *)",
+      "Bash(mysql *)",
+      "Write(.claude/skills/**)",
+      "Edit(.claude/skills/**)",
+      "Bash(ptex2pdf)",
+      "Bash(mkdir *)"
+    ],
+    "ask": [
+      "Bash(rm *)",
+      "Bash(sudo *)"
+    ],
+    "deny": [
+      "Bash(git push *)",
+      "Read(.env)",
+      "Read(./secrets/**)",
+      "Read(~/.ssh/**)",
+      "Read(~/.zsh*)"
+    ]
+  },
+  "env": {
+    "CLAUDE_AUTOCOMPACT_PCT_OVERRIDE": "70"
+  },
+  "showTurnDuration": false,
+  "spinnerTipsEnabled": false,
+  "lang1age": "japanese"}
