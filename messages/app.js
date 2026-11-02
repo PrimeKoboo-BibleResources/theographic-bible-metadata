@@ -9,9 +9,9 @@ const DATA_BASE = "../data/json/";
 // 一次ソースとして出力するフィールド（modified2 の他のフィールドは出さない）
 const PERSON_FIELDS = ["displayTitle", "name", "surname", "birthPlace", "deathPlace",
   "birthYear", "deathYear", "gender", "father", "mother", "siblings",
-  "halfSiblingsSameFather", "halfSiblingsSameMother", "partners", "children"];
+  "halfSiblingsSameFather", "halfSiblingsSameMother", "partners", "children", "eastons"];
 const PLACE_FIELDS = ["displayTitle", "kjvName", "esvName", "otherNames",
-  "latitude", "longitude", "featureType", "featureSubType"];
+  "latitude", "longitude", "featureType", "featureSubType", "eastons"];
 
 const $ = (id) => document.getElementById(id);
 let dataPromise = null;
@@ -24,11 +24,12 @@ function loadData() {
       if (!r.ok) throw new Error(n + ".json の取得に失敗しました");
       return r.json();
     });
-    dataPromise = Promise.all([get("verses"), get("people"), get("places")])
-      .then(([verses, people, places]) => ({
+    dataPromise = Promise.all([get("verses"), get("people"), get("places"), get("easton")])
+      .then(([verses, people, places, easton]) => ({
         verses,
         people: indexBy(people, "personLookup"),
         places: indexBy(places, "placeLookup"),
+        eastons: indexBy(easton, "index"),
       }));
   }
   return dataPromise;
@@ -81,6 +82,12 @@ const placeGet = (data, k) => {
   return { displayTitle: p.displayTitle, latitude: p.latitude, longitude: p.longitude };
 };
 
+// eastons は easton.json の index への参照。辞書の見出しと本文に展開する
+const eastonsOf = (data, keys) => keys.map((k) => {
+  const e = data.eastons.get(k);
+  return { termLabel: e.termLabel, dictText: e.dictText };
+});
+
 const pick = (record, fields) =>
   Object.fromEntries(fields.filter((f) => f in record).map((f) => [f, record[f]]));
 
@@ -88,12 +95,14 @@ function expandPerson(data, person) {
   const out = pick(person, PERSON_FIELDS);
   for (const f of PERSON_REFS) if (out[f]) out[f] = out[f].map((k) => personGet(data, k));
   for (const f of ["birthPlace", "deathPlace"]) if (out[f]) out[f] = out[f].map((k) => placeGet(data, k));
+  if (out.eastons) out.eastons = eastonsOf(data, out.eastons);
   return out;
 }
 
 function expandPlace(data, place) {
   const out = pick(place, PLACE_FIELDS);
   if (out.otherNames) out.otherNames = out.otherNames.map((k) => placeGet(data, k));
+  if (out.eastons) out.eastons = eastonsOf(data, out.eastons);
   return out;
 }
 
